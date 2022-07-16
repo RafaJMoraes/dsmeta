@@ -24,7 +24,6 @@ function SalesCard() {
                         className="dsmeta-form-control"
                         dateFormat="dd/MM/yyyy"
                     />
-
                 </div>
             </div>
 
